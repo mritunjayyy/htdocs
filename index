@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Travel website</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+
+    <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css" />
+<link type="text/css" rel="stylesheet" href="css/owl.carousel.min.css" />
+<link type="text/css" rel="stylesheet" href="css/owl.theme.default.min.css" />
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,6001,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,5001,600,6001" rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <div class="container"> 
+            <div class="menu-par">
+                <div class="logo-par">
+                    <a href="index.html">
+                        <h2>Travel</h2>
+                    </a>
+                </div>
+                <div class="nav">
+                    <ul>
+                       <li><a class="menu_hover" href="index.html">Home</a></li> 
+                       <li><a class="menu_hover" href="#">Travel</a></li>
+                       <li><a class="menu_hover" href="#">Book now</a></li>
+                       <li><a class="menu_hover" href="#">Gallery</a></li>
+                       <li><a class="menu_hover" href="#">Holyday</a></li>
+                       <li><a class="menu_hover" href="#">Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+     </nav>
+    
+</body>
+
+</html>
